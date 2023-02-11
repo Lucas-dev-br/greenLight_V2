@@ -784,7 +784,7 @@ ul.setting-panel-list li{
     background: #e12503;
 }
 .header-top-menu .navbar-nav>li .dropdown-menu a:hover, .header-right-info ul.header-right-menu li .dropdown-header-top.author-log li a:hover, .header-right-info ul.header-right-menu li .dropdown-header-top.author-log li a:focus, .header-drl-controller-btn.btn-info:active:focus, .btn-info:active:hover {
-    background: #F6F8FA;
+    background: #95C62C;
 }
 .menu-switcher-pro .btn-info:active, .menu-switcher-pro .btn-info:focus, .menu-switcher-pro .btn-info:hover, .menu-switcher-pro .btn-info:visited, .header-drl-controller-btn.btn-info:active:focus{
 	background: #95C62C;
@@ -846,7 +846,7 @@ ul.setting-panel-list li{
 	font-size:14px;
 }
 .sr-input-func:focus a {
-    color: #006DF0;
+    color: #fff;
 }
 /*----------------------------------------*/
 /*  6.  breadcrumb
@@ -3674,7 +3674,7 @@ div#sparklinehome canvas {
     box-shadow: 0 1px 4px rgba(0,0,0,.175);
 }
 #sidebar.active .sidebar-nav .metismenu a:hover, #sidebar.active .sidebar-nav .metismenu a:focus, #sidebar.active .sidebar-nav .metismenu a:active{
-	background:#F6F8FA;
+	background:#95C62C;
 }
 #sidebar.active .mCustomScrollBox{
 	overflow:unset;
@@ -3726,7 +3726,7 @@ div#sparklinehome canvas {
     background-color: #86bc42;
 }
 .footer-copyright-area {
-    background: #006DF0;
+    background: #95C62C;
 	padding: 20px 0px;
     text-align: center;
 }
